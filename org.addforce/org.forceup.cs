@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class HoverPad : MonoBehaviour
+public class ForceUp : MonoBehaviour
 {   
     void OnTriggerStay (Collider other)
     {
